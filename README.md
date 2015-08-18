@@ -1,6 +1,11 @@
 # ワードプレステーマの基礎ファイル
 
 ## 参考 | References.
+* テーマの作成
+    http://wpdocs.osdn.jp/%E3%83%86%E3%83%BC%E3%83%9E%E3%81%AE%E4%BD%9C%E6%88%90#Template_Files_List
+* Theme Development
+    https://codex.wordpress.org/Theme_Development#Template_Files_List
+
 * テンプレート階層
     http://wpdocs.osdn.jp/%E3%83%86%E3%83%B3%E3%83%97%E3%83%AC%E3%83%BC%E3%83%88%E9%9A%8E%E5%B1%A4
 * Template Hierarchy
